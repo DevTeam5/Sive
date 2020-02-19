@@ -1,0 +1,1 @@
+select Quantity from Chips.sprint
